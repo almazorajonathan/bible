@@ -1,0 +1,10 @@
+.button {
+    padding-top:30px;
+	padding-bottom:30px;
+	padding-left:100px;
+	padding-right:100px;
+  }
+  
+  .button:hover {
+        opacity:.8;
+  }
